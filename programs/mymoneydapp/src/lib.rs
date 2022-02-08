@@ -1,7 +1,7 @@
 use anchor_spl::token::{self, Burn, MintTo, SetAuthority, Transfer};
 use anchor_lang::prelude::*;
 
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("E2N6zLqZ6WiiAMioPtW15RNhTGGVBxKgtYqqrZfsNmrB");
 
 #[program]
 pub mod mymoneydapp {

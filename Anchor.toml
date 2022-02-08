@@ -1,5 +1,5 @@
 [programs.localnet]
-mymoneydapp = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+mymoneydapp = "E2N6zLqZ6WiiAMioPtW15RNhTGGVBxKgtYqqrZfsNmrB"
 
 [registry]
 url = "https://anchor.projectserum.com"
@@ -9,4 +9,4 @@ cluster = "localnet"
 wallet = "/home/metalgear/.config/solana/id.json"
 
 [scripts]
-test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.js"
